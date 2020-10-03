@@ -1,5 +1,5 @@
 # C-programs
-This repo contains c++ programs from beginner level to expert level
+This repo contains variety of c++ programs from beginner level to expert level
 
 ## How to run CPP files :
 
